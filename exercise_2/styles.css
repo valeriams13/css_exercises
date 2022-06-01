@@ -1,0 +1,19 @@
+#num2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.even {
+    background-color: #ee7c8f;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.even.but-bigger{
+    font-size: 24px;
+}
